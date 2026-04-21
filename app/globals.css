@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.font-playfair {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.font-dm {
+  font-family: 'DM Sans', system-ui, sans-serif;
+}
+body {
+  font-family: 'DM Sans', system-ui, sans-serif;
+}
